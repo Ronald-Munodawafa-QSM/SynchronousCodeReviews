@@ -41,16 +41,25 @@ two weeks from their last one to give sufficient time to
 address the issues raised in the code review. The feedback
 provided by the reviewer notes whether there are improvements
 from the last time the student was reviewed. Each synchronous
-code review comes with a new exercise.
+code review comes with a new exercise with an increment
+in complexity.
 
 ### Runtime
 
-10 minutes - Requirements gathering
-25 minutes - Programming
-10 minutes - Live feedback
-24 hours later - Code review report
+10 minutes - Requirements gathering <br>
+25 minutes - Programming <br>
+10 minutes - Live feedback <br>
+24 hours later - Code review report <br>
+
+## Rules of Engagement
+
+1. The student may not source the solution anywhere else.
+2. They may use documentation or tools to look up
+syntax and library calls, but be familiar with
+how to use them.
 
 ## Preparation
 
 ### Student's Preparation
 
+### Reviewer's Preparation
