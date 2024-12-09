@@ -92,3 +92,19 @@ Meal types:
 3. Chef's special
 
 Please enter the next order's number:
+
+#### User input
+
+1
+
+#### Taking an order after clearing
+
+Current orders:
+1. Customer 12 - Breakfast
+
+Meal types:
+1. Breakfast
+2. Snack
+3. Chef's special
+
+Please enter the next order's number or 0 to indicate Customer 12's order is ready:
